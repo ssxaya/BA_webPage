@@ -83,7 +83,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     welcomeText: 'Hello, Sensei',
     motto: ['和你的日常，就是奇迹', '何気ない日常で、ほんの少しの奇跡を見つける物語。'],
     social: [
-      { icon: 'bilibili', url: 'https://www.bilibili.com/' },
+      { icon: 'bilibili', url: 'https://live.bilibili.com/27521518' },
       { icon: 'qq', url: 'https://qm.qq.com/q/qXOfmHVESA' },
       { icon: 'github', url: 'https://github.com/ssxaya' },
       //{ icon: 'wechat', url: 'https://weixin.qq.com/' },
